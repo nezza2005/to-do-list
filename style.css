@@ -1,0 +1,51 @@
+body {
+
+  background-image:url(images/pexels-lukas-349610.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  font-size: 0rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+
+i {
+  cursor: pointer;
+}
+
+.outerContainer {
+  margin: auto 25%;
+}
+
+.inputSection {
+  padding-top: 5%;
+}
+
+#inputBox {
+  height: 40px;
+  width: 87%;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 2% 0 5%;
+  border-width:  thin;
+  border-style: solid;
+  border-color: #ffb26b;
+}
+
+#addBtn {
+  color: black;
+  border-width: medium;
+  margin-bottom: 0.3%;
+}
+
+#clearBtn {
+  color: black;
+  border-width: medium;
+}
+
+#itemList {
+  font-size: 1.5rem;
+  text-align: left;
+}
